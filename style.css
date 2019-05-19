@@ -1,0 +1,30 @@
+body{
+  text-align: center;
+}
+
+h1{
+  font-family: arial; 
+  font-size: 38px;
+}
+
+h2{
+  font-family: arial; 
+  font-size: 14px; 
+  font-weight: normal;
+}
+
+#tooltip {	
+  position: absolute;			
+  min-width: 100px;					
+  padding: 5px;				
+  font-size: 13px;
+  font-family: calibri;
+  color: white;
+  background: black;	
+  border-radius: 5px;		
+  text-align: center;
+}
+
+#lines{
+  font-weight: bold;
+}
